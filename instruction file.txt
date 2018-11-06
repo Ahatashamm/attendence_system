@@ -1,0 +1,16 @@
+registration korle je email use korba oi email login e use korba. and registration korar somoy je password diba oitai login password
+
+r
+
+login username: mdahatashamm@gmail.com
+password:12345
+
+
+admin :username:Vice Chancellor
+pass:12345
+
+admin : Register
+password:12345
+
+admin :accountant
+pass:12345
